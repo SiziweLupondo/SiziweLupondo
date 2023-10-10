@@ -1,6 +1,6 @@
 - # About Me
 
-Hello! 👋 I'm Siziwe Lupondo , an aspiring data scientist, machine learning scientist, and business intelligence analyst. I'm dedicated to leveraging data-driven insights to make informed decisions and solve complex problems. With a strong background in data analysis, machine learning, and business intelligence, I am always eager to explore new challenges and opportunities in the field of data science.
+Hello! 👋 I'm Siziwe Lupondo , an aspiring data scientist, machine learning scientist, and business intelligence analyst. I'm dedicated to leveraging data-driven insights to make informed decisions and solve complex problems. I am always eager to explore new challenges and opportunities in the field of data science.
 
 ## My Expertise
 
@@ -8,8 +8,7 @@ Hello! 👋 I'm Siziwe Lupondo , an aspiring data scientist, machine learning sc
 
 🤖 **Machine Learning**: I have experience in developing machine learning models for various applications, from predictive analytics to natural language processing. My goal is to build models that not only perform well but are also interpretable and actionable.
 
-📈 **Business Intelligence**: I understand the importance of turning data into actionable insights for decision-makers. I excel in creating interactive dashboards, reports, and data visualizations using BI tools like [mention your preferred BI tool].
-
+📈 **Business Intelligence**: I understand the importance of turning data into actionable insights for decision-makers. I excel in creating interactive dashboards, reports, and data visualizations using BI tools like Powerbi and Tableau.
 ## Software I Use
 
 Here are some of the key software and tools I use in my work:
